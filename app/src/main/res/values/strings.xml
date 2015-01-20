@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">Activity Spy</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="greetings">Greetings, UW!</string>
     <string name="action_settings">Settings</string>
+    <string name="notify_close">We’re going down, Captain!</string>
+    <string name="dev_event">on%1$s event fired</string>
 
 </resources>

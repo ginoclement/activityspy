@@ -1,19 +1,61 @@
 package edu.washington.gclement.activityspy;
 
+import android.os.Build;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
 
 public class MainActivity extends ActionBarActivity {
 
+//    private Resource res = getResources();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        logActivity("Create");
         setContentView(R.layout.activity_main);
+
     }
 
+    @Override
+    protected void onDestroy(){
+        super.onDestroy();
+        Log.e("ActivitySpy", getString(R.string.notify_close));
+        logActivity("Destroy");
+    }
+
+    @Override
+    protected void onPause(){
+        super.onPause();
+        logActivity("Pause");
+    }
+
+    @Override
+    protected void onRestart(){
+        super.onRestart();
+        logActivity("Restart");
+    }
+
+    @Override
+    protected void onResume(){
+        super.onResume();
+        logActivity("Resume");
+    }
+
+    @Override
+    protected void onStart(){
+        super.onStart();
+        logActivity("Start");
+    }
+
+    @Override
+    protected void onStop(){
+        super.onStop();
+        logActivity("Stop");
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -35,5 +77,9 @@ public class MainActivity extends ActionBarActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    private void logActivity(String act){
+        Log.i("ActivitySpy", getString(R.string.dev_event, act));
     }
 }
