@@ -1,0 +1,58 @@
+01-19 21:02:50.331  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onResume event fired
+01-19 21:04:07.491  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onPause event fired
+01-19 21:04:07.511  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStop event fired
+01-19 21:06:05.941  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onRestart event fired
+01-19 21:06:05.941  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStart event fired
+01-19 21:06:06.011  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onResume event fired
+01-19 21:06:07.901  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onPause event fired
+01-19 21:06:08.641  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStop event fired
+01-19 21:10:12.251  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onRestart event fired
+01-19 21:10:12.261  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStart event fired
+01-19 21:10:12.261  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onResume event fired
+01-19 21:10:15.061  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onPause event fired
+01-19 21:10:15.061  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStop event fired
+01-19 21:10:15.101  24660-24660/edu.washington.gclement.activityspy E/ActivitySpy﹕ We’re going down, Captain!
+01-19 21:10:15.101  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onDestroy event fired
+01-19 21:10:15.111  24660-24660/edu.washington.gclement.activityspy I/PersonaManager﹕ getPersonaService() name persona_policy
+01-19 21:10:15.121  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onCreate event fired
+01-19 21:10:15.141  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStart event fired
+01-19 21:10:15.141  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onResume event fired
+01-19 21:10:15.141  24660-24660/edu.washington.gclement.activityspy E/ViewRootImpl﹕ sendUserActionEvent() mView == null
+01-19 21:10:26.761  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onPause event fired
+01-19 21:10:26.761  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStop event fired
+01-19 21:10:26.761  24660-24660/edu.washington.gclement.activityspy E/ActivitySpy﹕ We’re going down, Captain!
+01-19 21:10:26.761  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onDestroy event fired
+01-19 21:10:26.771  24660-24660/edu.washington.gclement.activityspy I/PersonaManager﹕ getPersonaService() name persona_policy
+01-19 21:10:26.791  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onCreate event fired
+01-19 21:10:26.811  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStart event fired
+01-19 21:10:26.811  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onResume event fired
+01-19 21:10:26.831  24660-24660/edu.washington.gclement.activityspy E/ViewRootImpl﹕ sendUserActionEvent() mView == null
+01-19 21:10:45.291  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onPause event fired
+01-19 21:10:45.311  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStop event fired
+01-19 21:10:46.851  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onRestart event fired
+01-19 21:10:46.851  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStart event fired
+01-19 21:10:47.121  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onResume event fired
+01-19 21:11:17.271  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onPause event fired
+01-19 21:11:17.291  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStop event fired
+01-19 21:15:25.181  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onRestart event fired
+01-19 21:15:25.201  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStart event fired
+01-19 21:15:25.211  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onResume event fired
+01-19 21:15:27.471  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onPause event fired
+01-19 21:15:28.941  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStop event fired
+01-19 21:15:28.961  24660-24660/edu.washington.gclement.activityspy E/OpenGLRenderer﹕ SFEffectCache:clear(), mSize = 0
+01-19 21:17:53.721  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onRestart event fired
+01-19 21:17:53.721  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStart event fired
+01-19 21:17:53.721  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onResume event fired
+01-19 21:17:53.761  24660-24660/edu.washington.gclement.activityspy I/Adreno-EGL﹕ <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build:  ()
+    OpenGL ES Shader Compiler Version: E031.24.00.08
+    Build Date: 02/20/14 Thu
+    Local Branch: AU200_patches_ms_memleak_libsc_profiler
+    Remote Branch:
+    Local Patches:
+    Reconstruct Branch:
+01-19 21:17:59.131  24660-24660/edu.washington.gclement.activityspy W/dalvikvm﹕ method Landroid/support/v7/internal/widget/ListViewCompat;.lookForSelectablePosition incorrectly overrides package-private method with same name in Landroid/widget/ListView;
+01-19 21:17:59.461  24660-24660/edu.washington.gclement.activityspy E/ViewRootImpl﹕ sendUserActionEvent() mView == null
+01-19 21:18:01.011  24660-24660/edu.washington.gclement.activityspy E/ViewRootImpl﹕ sendUserActionEvent() mView == null
+01-19 21:18:02.501  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onPause event fired
+01-19 21:18:03.191  24660-24660/edu.washington.gclement.activityspy I/ActivitySpy﹕ onStop event fired
+01-19 21:18:03.201  24660-24660/edu.washington.gclement.activityspy E/OpenGLRenderer﹕ SFEffectCache:clear(), mSize = 0
